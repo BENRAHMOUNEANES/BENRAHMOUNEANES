@@ -42,12 +42,12 @@
 ---
 
 ### 📌 Featured Projects
-- 📝 [Smart TaskMate](https://github.com/anesensta/smart-taskmate) — AI-powered task manager (NiceGui + FastAPI + PostgreSQL)  
-- 🏠 [Bayti](https://github.com/anesensta) — home made food  app with property listings and search features and ordring using Flutter and supabase 
-- 💬 [Chat App](https://github.com/anesensta) — Real-time messaging app using Flutter &  Firebase
-- ☀️ [Weather App](https://github.com/anesensta) — Flutter app displaying live weather info from APIs  
-- 🛒 [Walmart Web Scraper](https://github.com/anesensta) — Python scraper for product data on Walmart  
-
+- 📝 [Smart TaskMate] — AI-powered task manager (NiceGui + FastAPI + PostgreSQL)  
+- 🏠 [Bayti] — home made food  app with property listings and search features and ordring using Flutter and supabase 
+- 💬 [Chat App] — Real-time messaging app using Flutter &  Firebase
+- ☀️ [Weather App] — Flutter app displaying live weather info from APIs  
+- 🛒 [Walmart Web Scraper] — Python scraper for product data on Walmart  
+- 🎓 EduApp — Educational platform connecting teachers, students, and parents with classroom management, communication, and progress tracking features.
 ---
 
 ### 📫 Connect With Me
