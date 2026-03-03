@@ -42,12 +42,15 @@
 ---
 
 ### 📌 Featured Projects
-- 📝 [Smart TaskMate] — AI-powered task manager (NiceGui + FastAPI + PostgreSQL)  
-- 🏠 [Bayti] — home made food  app with property listings and search features and ordring using Flutter and supabase 
+- 🎓 [EduApp] — Educational platform connecting teachers, students, and parents with classroom management, communication, and progress tracking features.
+- 🏠 [Bayti] — home made food  app with property listings and search features and ordring using Flutter and supabase
+- 🚀 [SkillSpark] — Skill-learning platform that helps users start new skills through structured roadmaps, guided learning paths, and progress tracking.
+- 📝 [Smart TaskMate] — AI-powered task manager (NiceGui + FastAPI + PostgreSQL)   
 - 💬 [Chat App] — Real-time messaging app using Flutter &  Firebase
 - ☀️ [Weather App] — Flutter app displaying live weather info from APIs  
-- 🛒 [Walmart Web Scraper] — Python scraper for product data on Walmart  
-- 🎓 EduApp — Educational platform connecting teachers, students, and parents with classroom management, communication, and progress tracking features.
+- 🛒 [Walmart Web Scraper] — Python scraper for product data on Walmart
+-   
+
 ---
 
 ### 📫 Connect With Me
