@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🏢 [Kawn Technologies]
+### 🏢 Kawn Technologies
 
 | Role | Responsibilities |
 |------|-----------------|
