@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🏢 [Kawn Technologies](https://kawn.tech)
+### 🏢 [Kawn Technologies]
 
 | Role | Responsibilities |
 |------|-----------------|
@@ -66,7 +66,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎓 **EduApp** | Educational platform connecting teachers, students & parents with classroom management, communication & progress tracking | Flutter · FastAPI · PostgreSQL |
+| 🎓 **EduApp** | Educational platform connecting teachers, students & parents with classroom management, communication & progress tracking | Flutter · Larevel · PostgreSQL |
 | 🏠 **Bayti** | Home-made food marketplace with listings, search & ordering features | Flutter · Supabase |
 | ⚡ **SkillSpark** | Skill-learning platform with structured roadmaps, guided paths & progress tracking | Flutter · FastAPI |
 | 🤖 **Smart TaskMate** | AI-powered task manager with smart suggestions | NiceGUI · FastAPI · PostgreSQL |
@@ -82,14 +82,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnesBenrahmouneOrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnesBenrahmouneOrg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BENRAHMOUNEANES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENRAHMOUNEANES&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnesBenrahmouneOrg&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BENRAHMOUNEANES&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -112,6 +112,5 @@
 
 *"Building the future, one line of code at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnesBenrahmouneOrg&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
